@@ -1,4 +1,39 @@
-.imagencita{
-    height:min-content;
-    width: min-content;
+.logo{
+  margin-bottom: 3px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.text{
+  font-size: 30px;
+  font-family: "Segoe UI";
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+
+}
+
+
+
+.columna {
+  width: 50%;
+  float: left;
+}
+
+
+.container{
+  padding-top: 5%;
+}
+
+
+
+h1{
+  text-align:start  ;
+  font-size: 450%;
+  font-weight: 600;
+  font-family: "Segoe UI" ;
+}
+
+.sub{
+  text-decoration-line: underline;
 }
