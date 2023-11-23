@@ -18,6 +18,7 @@
 .columna {
   width: 50%;
   float: left;
+
 }
 
 
@@ -25,15 +26,26 @@
   padding-top: 5%;
 }
 
-
-
+.jo{
+  font-size: 33px;
+}
 h1{
-  text-align:start  ;
-  font-size: 450%;
-  font-weight: 600;
+  text-align:left ;
+  font-size: 400%;
+  font-weight: 500;
   font-family: "Segoe UI" ;
 }
 
 .sub{
   text-decoration-line: underline;
+  color: #97cadb;
+}
+
+.carousel-item{
+  margin-top: 5%;
+  text-align: center ;
+  font-size: 200%;
+  font-weight: 400;
+  font-family: "Segoe UI" ;
+  color: #97cadb;
 }
