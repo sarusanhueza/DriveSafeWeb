@@ -1,17 +1,18 @@
 /* navbar */
-.logo{
+
+.logo {
   margin-bottom: 3px;
   margin-left: 10px;
   margin-right: 10px;
 }
-.text{
+
+.text {
   font-size: 30px;
   font-family: "Segoe UI";
   font-weight: 600;
   color: rgb(255, 255, 255);
   text-decoration-line: none;
 }
-
 
 
 
@@ -22,10 +23,11 @@
   float: left;
 }
 
-.container{
+.container {
   padding-top: 5%;
 }
-.de{
+
+.img1 {
   position: absolute;
   margin-left: 20px;
   margin-top: 3%;
@@ -33,39 +35,124 @@
   width: 50%;
   border-radius: 10px;
 }
-.img2{
 
-}
-.portada{
-  text-align: left ;
+.portada {
+  text-align: left;
   font-size: 65px;
   font-weight: 600;
-  font-family: "Segoe UI" ;
+  font-family: "Segoe UI";
   margin-left: 10%;
   margin-top: 10%;
 }
 
-.sub{
+.sub {
   text-decoration-line: underline;
   color: #97cadb;
   font-family: "Segoe UI";
   font-weight: 600;
 }
 
-.carousel-item{
-  margin-top: 20%;
-  text-align: left ;
-  font-size: 30px;
+
+
+/* Carrusel */
+
+.carousel-item {
+  margin-top: 15%;
+  text-align: center;
+  font-size: 25px;
   font-weight: 200;
-  font-family: "Segoe UI" ;
+  font-family: "Segoe UI";
   color: #000000;
+
+
 }
-.tituloc{
-  text-align: left;
-  color: #97cadb;
+
+.tituloc {
+  text-align: center;
+  color: #000000;
   font-size: medium;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 400;
   font-family: "Segoe UI";
 }
+
+
+
+/* Cards */
+
+.card-img-top{
+  height: 150px;
+  width: 100;
+}
+
+
+
+
+.conteiner4{
+  margin-bottom: 20%;
+}
+
+/* Equipo */
+ .h2{
+
+  margin-top: 50px;
+  color: #97cadb;
+  font-family: "Segoe UI";
+  font-weight: 600;
+  border-color: #97cadb;
+
+ }
+
+
+/* Footer*/
+
+.footer {
+  height: 25%;
+  background-color: #97cadb;
+  opacity: 50%;
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+.logo1 {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.col{
+  color: white;
+  margin-bottom: 20px;
+}
+
+
+.titulofooter{
+  font-size: 300%;
+  font-family: "Segoe UI" ;
+  color: white;
+}
+
+.letra{
+  color: white;
+}
+
+.hr{
+  color: white;
+}
+
+
+.btn{
+  font-size: 200%;
+  height: 40%;
+  width: 40%;
+}
+
+
+
+
 
